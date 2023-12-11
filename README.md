@@ -1,3 +1,5 @@
 # apnacollege-demo
 This is my First GIT repository
-Author - Deepika Singh
+<br>
+Author - Deepika (Apna College)
+
